@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TestTheGrid]]></title>
         <description><![CDATA[TestTheGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wolfsker_test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 04:01:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 04:04:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wolfsker_test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hard @ work]]></title>
+            <description><![CDATA[<h1>Hard @ work</h1>]]></description>
+            <link>https://thegrid.ai/wolfsker_test/hard-work/index.html</link>
+            <guid isPermaLink="false">01f9600c-84aa-4d55-92b5-5ea869b9ec73</guid>
+            <pubDate>Mon, 07 Mar 2016 04:03:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30ef71d7-0f16-4cde-b733-ae7e104220d8.jpg">]]></description>
-            <link>undefined4fc2eca0-1bd8-411b-a861-6fc15fc6a8a2/index.html</link>
+            <link>https://thegrid.ai/wolfsker_test/4fc2eca0-1bd8-411b-a861-6fc15fc6a8a2/index.html</link>
             <guid isPermaLink="false">4fc2eca0-1bd8-411b-a861-6fc15fc6a8a2</guid>
             <pubDate>Mon, 07 Mar 2016 04:00:40 GMT</pubDate>
         </item>
