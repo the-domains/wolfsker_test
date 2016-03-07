@@ -1,29 +1,41 @@
-name: wolfsker_test
-favicon: null
-layout_spectrum: 0.49644786887802184
-typography_spectrum: 0.8117660349234939
-title: TestTheGrid
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4964478688780218
+title: TestTheGrid
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.4229652874637395
+  brandStrength: 0.3125
+  rhythmicContrast: 0.937352407258004
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.3125
   lightness: 0.7853970755822957
-  saturation: 0.4229652874637395
-  rhythmicContrast: 0.937352407258004
 purpose: []
+favicon: null
+name: wolfsker_test
+typography_spectrum: 0.8117660349234939
