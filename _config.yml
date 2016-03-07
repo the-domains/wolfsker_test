@@ -2,6 +2,7 @@ name: wolfsker_test
 favicon: null
 layout_spectrum: 0.49644786887802184
 typography_spectrum: 0.8117660349234939
+title: TestTheGrid
 cta:
   domain: null
   bucket: null
